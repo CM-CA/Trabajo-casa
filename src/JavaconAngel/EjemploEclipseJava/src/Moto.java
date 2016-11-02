@@ -9,6 +9,9 @@ public class Moto extends vehiculo{
 	int cilindrada;
 	//float posicion;
 	//float velocidad;
+	private String marca;
+	private float posicion;
+	private float velocidad;
 
 	public Moto(String marca, String numRuedas, String color, String matricula, int cilindrada, float posicion,
 			float velocidad) {

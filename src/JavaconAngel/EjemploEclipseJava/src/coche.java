@@ -9,7 +9,6 @@ public class coche {
 	float velocidad;
 
 	String getMatricula() {
-		System.out.println("hola");
 		return matricula;
 	}
 
